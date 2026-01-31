@@ -1,13 +1,12 @@
 import os
-import asyncio
 import xml.etree.ElementTree as ET
 from collections import Counter
 from nltk.tokenize import RegexpTokenizer
 from nltk.stem import WordNetLemmatizer
-from deep_translator import GoogleTranslator
+from translator import translate_words_sync
 
 TRANSLATE_ENABLED = True
-TRANSLATE_LIMIT = 800
+TRANSLATE_LIMIT = 1300
 
 def load_common_words(filepath):
     with open(filepath, 'r') as f:
@@ -29,24 +28,6 @@ def get_filtered_counter(text, common_words):
     filtered_words = [w for w in lemmatized_words if w not in common_words and len(w) >= 3]
     return Counter(filtered_words)
 
-async def translate_words(words, concurrency=10):
-    semaphore = asyncio.Semaphore(concurrency)
-    translations = {}
-
-    async def translate_one(word):
-        async with semaphore:
-            return await asyncio.to_thread(
-                lambda: GoogleTranslator(source='en', target='ru').translate(word)
-            )
-
-    tasks = {word: asyncio.create_task(translate_one(word)) for word in words}
-    for word, task in tasks.items():
-        try:
-            translations[word] = await task
-        except Exception:
-            translations[word] = None
-    return translations
-
 def save_counter(counter, filepath, translate=False, translate_limit=0):
     translations = {}
     if translate:
@@ -57,7 +38,7 @@ def save_counter(counter, filepath, translate=False, translate_limit=0):
             words_for_translation.append(word)
             if translate_limit != 0 and len(words_for_translation) >= translate_limit:
                 break
-        translations = asyncio.run(translate_words(words_for_translation))
+        translations = translate_words_sync(words_for_translation)
 
     with open(filepath, 'w', encoding='utf-8') as f:
         translated_count = 0
@@ -74,14 +55,13 @@ def save_counter(counter, filepath, translate=False, translate_limit=0):
                     print(f"Translated ({translated_count + 1}): {word} -> {translation}")
                     translated_count += 1
                 else:
-                    dumb = '--'
-                    line_content = f"{word:40}, {dumb:40},{count:40}"
+                    line_content = f"{word:40}, {'':40}, {count}"
             
             f.write(f"{line_content}\n")
 
 def main():
     common_words_path = os.path.join('data', 'dict', 'Oxford3000.txt')
-    book_filename = os.path.join('data', 'books', 'Harry_Potter_and_the_Sorcerers_Stone.fb2')
+    book_filename = os.path.join('data', 'books', 'Between Two Fires.fb2')
     output_dir = 'output'
 
     print(f"Loading common words from: {common_words_path}")
