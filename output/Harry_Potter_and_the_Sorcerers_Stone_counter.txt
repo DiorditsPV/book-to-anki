@@ -1,0 +1,1324 @@
+harry                                   , Гарри                                   , 1336
+ron                                     , Рон                                     , 429
+hagrid                                  , Хагрид                                  , 371
+hermione                                , Гермиона                                , 271
+didn                                    , не сделал                               , 198
+don                                     , дон                                     , 175
+snape                                   , Снейп                                   , 171
+dumbledore                              , Дамблдор                                , 160
+dudley                                  , Дадли                                   , 140
+malfoy                                  , Малфой                                  , 126
+yeh                                     , да                                      , 121
+potter                                  , гончар                                  , 120
+vernon                                  , Вернон                                  , 117
+neville                                 , Невилл                                  , 117
+quirrell                                , Квиррелл                                , 113
+couldn                                  , мог бы                                  , 106
+mcgonagall                              , Макгонагалл                             , 100
+gryffindor                              , гриффиндорец                            , 86
+hogwarts                                , Хогвартс                                , 81
+wasn                                    , разве                                   , 78
+ter                                     , тер                                     , 78
+toward                                  , к                                       , 71
+wand                                    , палочка                                 , 64
+cloak                                   , плащ                                    , 63
+saw                                     , пила                                    , 63
+quidditch                               , квиддич                                 , 60
+petunia                                 , петуния                                 , 58
+yer                                     , да                                      , 57
+dursley                                 , Дурсль                                  , 56
+hadn                                    , имел                                    , 54
+things                                  , вещи                                    , 54
+years                                   , годы                                    , 53
+wouldn                                  , бы                                      , 52
+feet                                    , ноги                                    , 52
+filch                                   , украсть                                 , 52
+wizard                                  , волшебник                               , 50
+dursleys                                , Дурсли                                  , 50
+slytherin                               , Слизерин                                , 50
+felt                                    , чувствовал себя                         , 49
+weasley                                 , Уизли                                   , 48
+broom                                   , метла                                   , 47
+owl                                     , сова                                    , 46
+mrs                                     , Миссис                                  , 46
+fell                                    , упал                                    , 46
+voldemort                               , Волдеморт                               , 39
+these                                   , эти                                     , 39
+percy                                   , Перси                                   , 39
+troll                                   , тролль                                  , 39
+madam                                   , мадам                                   , 36
+dragon                                  , дракон                                  , 36
+grind                                   , молоть                                  , 35
+scar                                    , шрам                                    , 34
+fred                                    , Фред                                    , 34
+peeve                                   , раздражать                              , 33
+rob                                     , грабить                                 , 31
+mutter                                  , бормотать                               , 31
+minutes                                 , минуты                                  , 30
+george                                  , Джордж                                  , 30
+corridor                                , коридор                                 , 30
+fer                                     , Фер                                     , 29
+students                                , студенты                                , 29
+gringotts                               , Гринготтс                               , 28
+flamel                                  , фламель                                 , 28
+snap                                    , щелчок                                  , 27
+broomstick                              , метла                                   , 27
+fluffy                                  , пушистый                                , 27
+norbert                                 , Норберт                                 , 27
+weren                                   , не было                                 , 26
+those                                   , те                                      , 26
+gasp                                    , задыхаться                              , 26
+christmas                               , Рождество                               , 25
+granger                                 , Грейнджер                               , 25
+yell                                    , кричать                                 , 24
+goyle                                   , гойл                                    , 24
+muggle                                  , маггл                                   , 23
+owls                                    , совы                                    , 23
+unicorn                                 , единорог                                , 23
+charlie                                 , Чарли                                   , 23
+wizards                                 , волшебники                              , 22
+legs                                    , ноги                                    , 22
+haven                                   , убежище                                 , 22
+isn                                     , нет                                     , 22
+cheer                                   , радость                                 , 22
+crabbe                                  , крэбб                                   , 21
+flitwick                                , Флитвик                                 , 21
+muggles                                 , магглы                                  , 20
+witch                                   , ведьма                                  , 20
+ollivander                              , Олливандер                              , 20
+seamus                                  , Симус                                   , 20
+ronan                                   , Ронан                                   , 20
+sorcerer                                , колдун                                  , 19
+hop                                     , прыгать                                 , 19
+hut                                     , хижина                                  , 19
+mom                                     , мама                                    , 19
+curse                                   , проклинать                              , 19
+quaffle                                 , квоффл                                  , 19
+firenze                                 , Флоренция                               , 19
+dare                                    , осмелиться                              , 18
+leap                                    , прыгнуть                                , 18
+clap                                    , хлопать в ладоши                        , 18
+cauldron                                , котел                                   , 18
+hufflepuff                              , хаффлпафф                               , 18
+fang                                    , клык                                    , 18
+snitch                                  , стукач                                  , 18
+seize                                   , захватывать                             , 17
+tap                                     , кран                                    , 17
+privet                                  , бирючина                                , 16
+creep                                   , слизняк                                 , 16
+boys                                    , мальчики                                , 16
+teachers                                , учителя                                 , 16
+toad                                    , жаба                                    , 16
+nimbus                                  , нимб                                    , 16
+nicolas                                 , Николя                                  , 16
+gryffindors                             , гриффиндорцы                            , 16
+bane                                    , проклятие                               , 16
+piers                                   , пирсы                                   , 15
+doors                                   , двери                                   , 15
+burst                                   , лопаться                                , 15
+friends                                 , друзья                                  , 15
+potions                                 , зелья                                   , 15
+others                                  , другие                                  , 15
+chamber                                 , камера                                  , 15
+hedwig                                  , Хедвиг                                  , 14
+nasty                                   , противный                               , 14
+peer                                    , вглядеться                              , 14
+nod                                     , кивок                                   , 14
+london                                  , Лондон                                  , 14
+swing                                   , качать                                  , 14
+nearer                                  , ближе                                   , 14
+cart                                    , тележка                                 , 14
+aren                                    , арен                                    , 14
+dragons                                 , драконы                                 , 14
+scabbers                                , коросты                                 , 14
+turban                                  , тюрбан                                  , 14
+slytherins                              , слизеринцы                              , 14
+seeker                                  , искатель                                , 14
+flint                                   , кремень                                 , 14
+invisibility                            , невидимость                             , 14
+forehead                                , лоб                                     , 13
+gray                                    , серый                                   , 13
+jerk                                    , придурок                                , 13
+grin                                    , ухмылка                                 , 13
+beard                                   , борода                                  , 13
+pomfrey                                 , Помфри                                  , 13
+somehow                                 , как-то                                  , 13
+shouldn                                 , должен                                  , 13
+anythin                                 , что-нибудь                              , 13
+expel                                   , изгонять                                , 13
+vault                                   , сейф                                    , 13
+staircase                               , лестница                                , 13
+norris                                  , Норрис                                  , 13
+dive                                    , нырять                                  , 13
+bludgers                                , бладжеры                                , 13
+magical                                 , волшебный                               , 12
+twist                                   , крутить                                 , 12
+swoop                                   , налет                                   , 12
+albus                                   , Альбус                                  , 12
+tremble                                 , дрожать                                 , 12
+knees                                   , колени                                  , 12
+forbid                                  , запретить                               , 12
+closer                                  , ближе                                   , 12
+wander                                  , бродить                                 , 12
+crack                                   , трескаться                              , 12
+wands                                   , палочки                                 , 12
+ones                                    , те                                      , 12
+griphook                                , крюк                                    , 12
+weasleys                                , Уизли                                   , 12
+brothers                                , братья                                  , 12
+ears                                    , уши                                     , 12
+hooch                                   , выпивка                                 , 12
+crate                                   , ящик                                    , 12
+chess                                   , шахматы                                 , 12
+stairs                                  , лестница                                , 11
+flavor                                  , вкус                                    , 11
+flutter                                 , порхать                                 , 11
+blink                                   , моргать                                 , 11
+clutch                                  , схватить                                , 11
+hundreds                                , сотни                                   , 11
+nervously                               , нервно                                  , 11
+underneath                              , под                                     , 11
+roar                                    , рев                                     , 11
+howl                                    , вой                                     , 11
+hiss                                    , шипение                                 , 11
+furiously                               , яростно                                 , 11
+weeks                                   , недели                                  , 11
+unwrap                                  , разворачивать                           , 11
+families                                , семьи                                   , 11
+keeper                                  , хранитель                               , 11
+sigh                                    , вздох                                   , 11
+days                                    , дни                                     , 11
+growl                                   , рычать                                  , 11
+fade                                    , тускнеть                                , 11
+goblin                                  , гоблин                                  , 11
+jordan                                  , Иордания                                , 11
+dean                                    , декан                                   , 11
+lessons                                 , уроки                                   , 11
+slam                                    , хлопнуть                                , 10
+chuckle                                 , смеяться                                , 10
+glance                                  , взглянуть мельком                       , 10
+bow                                     , поклон                                  , 10
+golden                                  , золотой                                 , 10
+vanish                                  , исчезнуть                               , 10
+rat                                     , крыса                                   , 10
+windows                                 , окна                                    , 10
+moan                                    , стон                                    , 10
+whistle                                 , свист                                   , 10
+sofa                                    , диван                                   , 10
+shriek                                  , визжать                                 , 10
+outta                                   , сбился                                  , 10
+halloween                               , Хэллоуин                                , 10
+leaky                                   , дырявый                                 , 10
+stool                                   , табурет                                 , 10
+charm                                   , очарование                              , 10
+lee                                     , Ли                                      , 10
+prefect                                 , префект                                 , 10
+ravenclaw                               , Рейвенкло                               , 10
+draco                                   , Драко                                   , 10
+doesn                                   , не делает                               , 10
+corridors                               , коридоры                                , 10
+dormitory                               , общежитие                               , 10
+invisible                               , невидимый                               , 10
+trapdoor                                , люк                                     , 10
+grunt                                   , ворчать                                 , 9
+rattle                                  , греметь                                 , 9
+lips                                    , губы                                    , 9
+quiver                                  , колчан                                  , 9
+twitch                                  , дергаться                               , 9
+feast                                   , праздник                                , 9
+swallow                                 , глотать                                 , 9
+sob                                     , рыдать                                  , 9
+wipe                                    , вытирать                                , 9
+parcel                                  , посылка                                 , 9
+envelope                                , конверт                                 , 9
+parchment                               , пергамент                               , 9
+furious                                 , яростный                                , 9
+stride                                  , шагать                                  , 9
+jus                                     , закон                                   , 9
+reckon                                  , считать                                 , 9
+teeth                                   , зубы                                    , 9
+broomsticks                             , метлы                                   , 9
+potion                                  , зелье                                   , 9
+marble                                  , мрамор                                  , 9
+trunk                                   , ствол                                   , 9
+compartment                             , отсек                                   , 9
+footsteps                               , шаги                                    , 9
+longbottom                              , Лонгботтом                              , 9
+bloody                                  , кровавый                                , 9
+baron                                   , барон                                   , 9
+bludger                                 , бладжер                                 , 9
+exams                                   , экзамены                                , 9
+bolt                                    , болт                                    , 8
+clothe                                  , одевать                                 , 8
+awake                                   , бодрствующий                            , 8
+flick                                   , щелкнуть                                , 8
+bind                                    , связывать                               , 8
+murmur                                  , ропот                                   , 8
+hours                                   , часы                                    , 8
+bark                                    , лаять                                   , 8
+rip                                     , рвать                                   , 8
+figg                                    , Фигг                                    , 8
+snarl                                   , рычать                                  , 8
+poke                                    , тыкать                                  , 8
+damp                                    , влажный                                 , 8
+halfway                                 , наполовину                              , 8
+terrify                                 , пугать                                  , 8
+gotta                                   , должен                                  , 8
+dunno                                   , не знаю                                 , 8
+beam                                    , луч                                     , 8
+diagon                                  , диагональ                               , 8
+alley                                   , переулок                                , 8
+clamber                                 , карабкаться                             , 8
+arts                                    , искусство                               , 8
+passageway                              , проход                                  , 8
+bewitch                                 , околдовать                              , 8
+nostrils                                , ноздри                                  , 8
+haired                                  , волосатый                               , 8
+remembrall                              , помнить                                 , 8
+chasers                                 , преследователи                          , 8
+referee                                 , судья                                   , 8
+reflection                              , отражение                               , 8
+chessmen                                , шахматные фигуры                        , 8
+knight                                  , рыцарь                                  , 8
+centaur                                 , кентавр                                 , 8
+lightning                               , молния                                  , 7
+wizardry                                , волшебство                              , 7
+harder                                  , Сильнее                                 , 7
+sharply                                 , резко                                   , 7
+silently                                , молча                                   , 7
+darkness                                , темнота                                 , 7
+sniff                                   , нюхать                                  , 7
+lily                                    , Лили                                    , 7
+sweets                                  , сладости                                , 7
+bundle                                  , пучок                                   , 7
+blanket                                 , одеяло                                  , 7
+grip                                    , схватить                                , 7
+swish                                   , взмахнуть                               , 7
+color                                   , цвет                                    , 7
+bacon                                   , бекон                                   , 7
+favorite                                , любимый                                 , 7
+zoo                                     , зоопарк                                 , 7
+bang                                    , хлопнуть                                , 7
+safely                                  , безопасно                               , 7
+smelt                                   , пахло                                   , 7
+ways                                    , пути                                    , 7
+shiver                                  , дрожать                                 , 7
+summat                                  , сумма                                   , 7
+anymore                                 , больше                                  , 7
+eagerly                                 , нетерпеливо                             , 7
+panic                                   , паника                                  , 7
+glare                                   , блики                                   , 7
+somethin                                , что-то                                  , 7
+scramble                                , карабкаться                             , 7
+goblins                                 , гоблины                                 , 7
+ministry                                , министерство                            , 7
+pant                                    , брюки                                   , 7
+quills                                  , иглы                                    , 7
+malkin                                  , Малкин                                  , 7
+thousands                               , тысячи                                  , 7
+higher                                  , выше                                    , 7
+spark                                   , искра                                   , 7
+curious                                 , любопытный                              , 7
+players                                 , игроки                                  , 7
+glide                                   , скользить                               , 7
+midair                                  , в воздухе                               , 7
+glitter                                 , блеск                                   , 7
+finnigan                                , Финниган                                , 7
+girls                                   , девушки                                 , 7
+armor                                   , броня                                   , 7
+dungeons                                , подземелья                              , 7
+snout                                   , морда                                   , 7
+sprint                                  , спринт                                  , 7
+binoculars                              , бинокль                                 , 7
+locker                                  , шкафчик                                 , 7
+erised                                  , возникший                               , 7
+snowy                                   , снежный                                 , 6
+curiously                               , любопытно                               , 6
+witchcraft                              , колдовство                              , 6
+fool                                    , дурак                                   , 6
+drill                                   , сверлить                                , 6
+mustache                                , усы                                     , 6
+bore                                    , бурить                                  , 6
+excitedly                               , взволнованно                            , 6
+older                                   , старше                                  , 6
+emerald                                 , изумруд                                 , 6
+overhead                                , накладные расходы                       , 6
+dash                                    , бросаться                               , 6
+mumble                                  , бормотать                               , 6
+nearest                                 , ближайший                               , 6
+gently                                  , нежно                                   , 6
+beneath                                 , под                                     , 6
+planets                                 , планеты                                 , 6
+relieve                                 , облегчить                               , 6
+groan                                   , стон                                    , 6
+plat                                    , плато                                   , 6
+honestly                                , честно                                  , 6
+tire                                    , шина                                    , 6
+shrink                                  , сокращать                               , 6
+chase                                   , гнаться                                 , 6
+shuffle                                 , перетасовать                            , 6
+sneak                                   , красться                                , 6
+dodge                                   , уклоняться                              , 6
+disgust                                 , отвращение                              , 6
+snatch                                  , вырвать                                 , 6
+sneer                                   , насмешка                                , 6
+shelve                                  , полка                                   , 6
+darkly                                  , мрачно                                  , 6
+hasn                                    , не имеет                                , 6
+lumpy                                   , комковатый                              , 6
+wrist                                   , запястье                                , 6
+doorway                                 , дверной проем                           , 6
+squeak                                  , скрипеть                                , 6
+sausages                                , сосиски                                 , 6
+gettin                                  , получаешь                               , 6
+abou                                    , о                                       , 6
+nothin                                  , ничего                                  , 6
+nah                                     , нет                                     , 6
+wizarding                               , волшебство                              , 6
+vol                                     , том                                     , 6
+gamekeeper                              , егерь                                   , 6
+knuts                                   , кнатс                                   , 6
+bat                                     , летучая мышь                            , 6
+scarlet                                 , алый                                    , 6
+hurtle                                  , мчаться                                 , 6
+favor                                   , услуга                                  , 6
+excite                                  , возбуждать                              , 6
+platforms                               , платформы                               , 6
+youngest                                , самый младший                           , 6
+prefects                                , префекты                                , 6
+stun                                    , оглушить                                , 6
+lurk                                    , скрываться                              , 6
+firs                                    , ели                                     , 6
+patil                                   , патил                                   , 6
+headless                                , безголовый                              , 6
+streak                                  , полоса                                  , 6
+trophy                                  , трофей                                  , 6
+squint                                  , щуриться                                , 6
+moonlight                               , лунный свет                             , 6
+backward                                , назад                                   , 6
+hoop                                    , обруч                                   , 6
+foul                                    , грязный                                 , 6
+restrict                                , ограничивать                            , 6
+flute                                   , флейта                                  , 6
+cage                                    , клетка                                  , 5
+phoenix                                 , феникс                                  , 5
+greatest                                , величайший                              , 5
+wrestle                                 , бороться                                , 5
+cheek                                   , щека                                    , 5
+strangely                               , странно                                 , 5
+daylight                                , дневной свет                            , 5
+stumble                                 , спотыкаться                             , 5
+hug                                     , обнимать                                , 5
+yawn                                    , зевать                                  , 5
+flicker                                 , мерцать                                 , 5
+diggle                                  , копать                                  , 5
+pierce                                  , пронзить                                , 5
+pat                                     , погладить                               , 5
+handkerchief                            , носовой платок                          , 5
+trash                                   , мусор                                   , 5
+glow                                    , светиться                               , 5
+brass                                   , латунь                                  , 5
+screech                                 , визг                                    , 5
+punch                                   , ударить кулаком                         , 5
+marge                                   , Мардж                                   , 5
+bald                                    , лысый                                   , 5
+puff                                    , слойка                                  , 5
+slither                                 , скользить                               , 5
+bits                                    , биты                                    , 5
+wink                                    , подмигивание                            , 5
+boa                                     , удав                                    , 5
+constrictor                             , удавчик                                 , 5
+squeeze                                 , сжимать                                 , 5
+strain                                  , напряжение                              , 5
+ickle                                   , холить                                  , 5
+faster                                  , Быстрее                                 , 5
+faint                                   , слабый                                  , 5
+choke                                   , душить                                  , 5
+miserably                               , несчастно                               , 5
+lap                                     , колени                                  , 5
+pelt                                    , шкура                                   , 5
+duck                                    , утка                                    , 5
+toast                                   , тост                                    , 5
+curl                                    , завиток                                 , 5
+thunder                                 , гром                                    , 5
+pause                                   , пауза                                   , 5
+warmth                                  , тепло                                   , 5
+blimey                                  , чертовски                               , 5
+bronze                                  , бронза                                  , 5
+enchantments                            , чары                                    , 5
+miles                                   , миль                                    , 5
+transfiguration                         , преображение                            , 5
+halt                                    , остановка                               , 5
+archway                                 , арка                                    , 5
+stack                                   , куча                                    , 5
+fangs                                   , клыки                                   , 5
+oak                                     , дуб                                     , 5
+tightly                                 , плотно                                  , 5
+ginny                                   , Джинни                                  , 5
+okay                                    , хорошо                                  , 5
+gran                                    , бабушка                                 , 5
+yourselves                              , себя                                    , 5
+candy                                   , конфеты                                 , 5
+mar                                     , март                                    , 5
+sprout                                  , росток                                  , 5
+romania                                 , Румыния                                 , 5
+anxiously                               , с тревогой                              , 5
+barely                                  , едва                                    , 5
+roast                                   , жарить                                  , 5
+bound                                   , граница                                 , 5
+frown                                   , хмуриться                               , 5
+bellow                                  , рев                                     , 5
+herbology                               , гербология                              , 5
+tut                                     , тут                                     , 5
+crossbow                                , арбалет                                 , 5
+duel                                    , дуэль                                   , 5
+twig                                    , ветка                                   , 5
+oliver                                  , Оливер                                  , 5
+severus                                 , Северус                                 , 5
+chaser                                  , преследователь                          , 5
+marcus                                  , Маркус                                  , 5
+elixir                                  , эликсир                                 , 5
+werewolf                                , оборотень                               , 5
+hood                                    , капюшон                                 , 5
+detention                               , задержание                              , 5
+devil                                   , дьявол                                  , 5
+snare                                   , ловушка                                 , 5
+spoil                                   , портиться                               , 4
+wrench                                  , гаечный ключ                            , 4
+england                                 , Англия                                  , 4
+nonsense                                , ерунда                                  , 4
+hum                                     , гул                                     , 4
+peculiar                                , своеобразный                            , 4
+tabby                                   , полосатый                               , 4
+stroke                                  , гладить                                 , 4
+stern                                   , суровый                                 , 4
+problems                                , проблемы                                , 4
+casually                                , случайно                                , 4
+drift                                   , дрейфовать                              , 4
+tuck                                    , заправить                               , 4
+sparkle                                 , сверкать                                , 4
+ruffle                                  , рябить                                  , 4
+dedalus                                 , дедал                                   , 4
+swap                                    , менять                                  , 4
+rumor                                   , слух                                    , 4
+sideways                                , вбок                                    , 4
+coldly                                  , холодно                                 , 4
+rumble                                  , гул                                     , 4
+swell                                   , зыбь                                    , 4
+jet                                     , реактивный самолет                      , 4
+takin                                   , забираю                                 , 4
+sleeve                                  , рукав                                   , 4
+beside                                  , рядом                                   , 4
+hush                                    , тише                                    , 4
+blond                                   , блондинка                               , 4
+mommy                                   , мама                                    , 4
+hamburger                               , гамбургер                               , 4
+paw                                     , лапа                                    , 4
+ruin                                    , разорение                               , 4
+fling                                   , бросать                                 , 4
+frantically                             , отчаянно                                , 4
+aside                                   , в сторону                               , 4
+kitchens                                , кухни                                   , 4
+overtake                                , догонять                                , 4
+scratch                                 , царапать                                , 4
+animals                                 , животные                                , 4
+budge                                   , сдвинуться с места                      , 4
+hammer                                  , молоток                                 , 4
+brandy                                  , бренди                                  , 4
+younger                                 , моложе                                  , 4
+merrily                                 , весело                                  , 4
+smeltings                               , плавки                                  , 4
+stonewall                               , каменная стена                          , 4
+slot                                    , слот                                    , 4
+flop                                    , провалиться                             , 4
+ink                                     , чернила                                 , 4
+goodness                                , доброта                                 , 4
+wildly                                  , дико                                    , 4
+shortly                                 , вскоре                                  , 4
+smallest                                , самый маленький                         , 4
+wheeze                                  , хрипеть                                 , 4
+squashy                                 , мягкий                                  , 4
+amazement                               , изумление                               , 4
+fireplace                               , камин                                   , 4
+gloomy                                  , хмурый                                  , 4
+perch                                   , окунь                                   , 4
+bob                                     , Боб                                     , 4
+icy                                     , ледяной                                 , 4
+whip                                    , хлыст                                   , 4
+fierce                                  , яростный                                , 4
+tick                                    , галочка                                 , 4
+crunch                                  , хруст                                   , 4
+boom                                    , бум                                     , 4
+glint                                   , блеск                                   , 4
+lump                                    , кусок                                   , 4
+overcoat                                , пальто                                  , 4
+gulp                                    , глоток                                  , 4
+braver                                  , храбрее                                 , 4
+rage                                    , ярость                                  , 4
+headmaster                              , директор                                , 4
+await                                   , ждать                                   , 4
+stammer                                 , заикаться                               , 4
+quill                                   , перо                                    , 4
+scribble                                , каракули                                , 4
+beak                                    , клюв                                    , 4
+knowin                                  , знать                                   , 4
+myst                                    , мист                                    , 4
+lookin                                  , заглянуть                               , 4
+batter                                  , тесто                                   , 4
+flatten                                 , сгладить                                , 4
+stump                                   , пень                                    , 4
+whirl                                   , вихрь                                   , 4
+temper                                  , характер                                , 4
+eyebrows                                , брови                                   , 4
+wriggle                                 , извиваться                              , 4
+claw                                    , коготь                                  , 4
+balloon                                 , воздушный шар                           , 4
+gleam                                   , светиться                               , 4
+fudge                                   , выдумка                                 , 4
+herbs                                   , травы                                   , 4
+fungi                                   , грибы                                   , 4
+telescope                               , телескоп                                , 4
+grubby                                  , грязный                                 , 4
+bartender                               , бармен                                  , 4
+chatter                                 , болтовня                                , 4
+scrap                                   , металлолом                              , 4
+defense                                 , защита                                  , 4
+brightly                                , ярко                                    , 4
+cauldrons                               , котлы                                   , 4
+plump                                   , пухлый                                  , 4
+counter                                 , прилавок                                , 4
+slop                                    , помои                                   , 4
+deeper                                  , Глубже                                  , 4
+gonna                                   , собираюсь                               , 4
+galleons                                , галеоны                                 , 4
+jar                                     , банка                                   , 4
+horn                                    , рог                                     , 4
+rustle                                  , шелестеть                               , 4
+silvery                                 , серебристый                             , 4
+softly                                  , мягко                                   , 4
+foolish                                 , глупый                                  , 4
+freckle                                 , веснушка                                , 4
+trunks                                  , стволы                                  , 4
+hairy                                   , волосатый                               , 4
+heave                                   , поднимать                               , 4
+moments                                 , моменты                                 , 4
+bott                                    , бот                                     , 4
+pumpkin                                 , тыква                                   , 4
+amaze                                   , удивлять                                , 4
+echo                                    , эхо                                     , 4
+banquet                                 , банкет                                  , 4
+friar                                   , монах                                   , 4
+hufflepuffs                             , хаффлпаффцы                             , 4
+potatoes                                , картофель                               , 4
+peas                                    , горох                                   , 4
+nick                                    , Ник                                     , 4
+championship                            , чемпионат                               , 4
+zoom                                    , масштабировать                          , 4
+armchairs                               , кресла                                  , 4
+spiral                                  , спираль                                 , 4
+movements                               , движения                                , 4
+topple                                  , опрокидывать                            , 4
+owlery                                  , совятник                                , 4
+idiot                                   , идиот                                   , 4
+quicker                                 , быстрее                                 , 4
+parvati                                 , Парвати                                 , 4
+dart                                    , дротик                                  , 4
+soar                                    , парить                                  , 4
+beaters                                 , загонщики                               , 4
+bathrobe                                , халат                                   , 4
+interfere                               , вмешиваться                             , 4
+petrify                                 , окаменеть                               , 4
+flush                                   , румянец                                 , 4
+months                                  , месяцы                                  , 4
+stutter                                 , заикаться                               , 4
+hearts                                  , сердца                                  , 4
+desperately                             , отчаянно                                , 4
+limp                                    , хромать                                 , 4
+ajar                                    , приоткрытый                             , 4
+angelina                                , Ангелина                                , 4
+johnson                                 , Джонсон                                 , 4
+roughly                                 , грубо                                   , 4
+trail                                   , тащить                                  , 4
+distant                                 , далекий                                 , 4
+norwegian                               , норвежский                              , 4
+ridgeback                               , риджбек                                 , 4
+hatch                                   , люк                                     , 4
+centaurs                                , кентавры                                , 4
+ysy                                     , ыси                                     , 4
+skinny                                  , тощий                                   , 3
+children                                , дети                                    , 3
+olimo                                   , олимо                                   , 3
+stories                                 , истории                                 , 3
+spy                                     , шпион                                   , 3
+neighbor                                , сосед                                   , 3
+shudder                                 , содрогаться                             , 3
+tantrum                                 , истерика                                , 3
+steer                                   , управлять                               , 3
+nighttime                               , ночь                                    , 3
+violet                                  , фиолетовый                              , 3
+markings                                , маркировка                              , 3
+armchair                                , кресло                                  , 3
+britain                                 , Британия                                , 3
+lately                                  , недавно                                 , 3
+stiffly                                 , жестко                                  , 3
+horribly                                , ужасно                                  , 3
+buckle                                  , пряжка                                  , 3
+rummage                                 , рыться                                  , 3
+brick                                   , кирпич                                  , 3
+impatiently                             , нетерпеливо                             , 3
+flock                                   , стадо                                   , 3
+irritably                               , раздраженно                             , 3
+calmly                                  , спокойно                                , 3
+firmly                                  , твердо                                  , 3
+tangle                                  , запутывать                              , 3
+bushy                                   , кустистый                               , 3
+twinkle                                 , мерцать                                 , 3
+muffle                                  , заглушить                               , 3
+astonish                                , удивлять                                , 3
+prod                                    , подталкивать                            , 3
+longer                                  , дольше                                  , 3
+rap                                     , рэп                                     , 3
+smaller                                 , меньше                                  , 3
+bigger                                  , больше                                  , 3
+knobbly                                 , узловатый                               , 3
+cabbage                                 , капуста                                 , 3
+slug                                    , слизняк                                 , 3
+wail                                    , стенать                                 , 3
+gigantic                                , гигантский                              , 3
+ideas                                   , идеи                                    , 3
+lick                                    , лизать                                  , 3
+reptile                                 , рептилия                                , 3
+crush                                   , раздавить                               , 3
+knuckle                                 , сустав                                  , 3
+brazil                                  , Бразилия                                , 3
+breed                                   , порода                                  , 3
+deafen                                  , оглушать                                , 3
+rib                                     , ребро                                   , 3
+swiftly                                 , быстро                                  , 3
+biggest                                 , самый большой                           , 3
+maroon                                  , темно-бордовый                          , 3
+gruffly                                 , грубо                                   , 3
+rag                                     , тряпка                                  , 3
+doormat                                 , коврик                                  , 3
+postcard                                , открытка                                , 3
+yellowish                               , желтоватый                              , 3
+eagle                                   , орел                                    , 3
+unfold                                  , разворачиваться                         , 3
+croak                                   , каркать                                 , 3
+keyhole                                 , замочная скважина                       , 3
+dangle                                  , мотаться                                , 3
+bitterly                                , горько                                  , 3
+straighten                              , выпрямить                               , 3
+mustn                                   , должен                                  , 3
+tiptoe                                  , ходить на цыпочках                      , 3
+cheerfully                              , весело                                  , 3
+marmalade                               , мармелад                                , 3
+waist                                   , талия                                   , 3
+bounce                                  , подпрыгивать                            , 3
+snore                                   , храпеть                                 , 3
+wicked                                  , злой                                    , 3
+smash                                   , разгромить                              , 3
+beetle                                  , жук                                     , 3
+crouch                                  , приседать                               , 3
+las                                     , лас                                     , 3
+mighta                                  , может быть                              , 3
+meself                                  , я сам                                   , 3
+rubeus                                  , Рубеус                                  , 3
+copper                                  , медь                                    , 3
+kettle                                  , чайник                                  , 3
+teapot                                  , чайник                                  , 3
+sausage                                 , колбаса                                 , 3
+bewilder                                , сбивать с толку                         , 3
+everythin                               , все                                     , 3
+sayin                                   , говорю                                  , 3
+fists                                   , кулаки                                  , 3
+goin                                    , иду                                     , 3
+squeal                                  , визжать                                 , 3
+sunlight                                , солнечный свет                          , 3
+peppermint                              , перечная мята                           , 3
+sleepily                                , сонно                                   , 3
+proudly                                 , гордо                                   , 3
+eager                                   , жаждущий                                , 3
+guardin                                 , охранник                                , 3
+prophet                                 , пророк                                  , 3
+askin                                   , просить                                 , 3
+pewter                                  , олово                                   , 3
+women                                   , женщины                                 , 3
+doris                                   , Дорис                                   , 3
+crockford                               , Крокфорд                                , 3
+grasp                                   , понять                                  , 3
+vampires                                , вампиры                                 , 3
+babble                                  , болтовня                                , 3
+apothecary                              , аптекарь                                , 3
+sickles                                 , серпы                                   , 3
+hoot                                    , крик                                    , 3
+downward                                , вниз                                    , 3
+plunge                                  , погружаться                             , 3
+heap                                    , куча                                    , 3
+colder                                  , холоднее                                , 3
+jewel                                   , драгоценность                           , 3
+robe                                    , халат                                   , 3
+drawl                                   , растягивать слова                       , 3
+chop                                    , нарезать                                , 3
+enemies                                 , враги                                   , 3
+ingredients                             , ингредиенты                             , 3
+spindly                                 , тонкий                                  , 3
+prickle                                 , колоть                                  , 3
+gloom                                   , мрак                                    , 3
+misty                                   , туманный                                , 3
+unicorns                                , единороги                               , 3
+flit                                    , порхать                                 , 3
+crumple                                 , мять                                    , 3
+tricky                                  , сложный                                 , 3
+mice                                    , мыши                                    , 3
+ruddy                                   , румяный                                 , 3
+oldest                                  , самый старый                            , 3
+jostle                                  , толкать                                 , 3
+sweaty                                  , потный                                  , 3
+badge                                   , значок                                  , 3
+blurt                                   , болтать                                 , 3
+bettie                                  , Бетти                                   , 3
+pasties                                 , пирожки                                 , 3
+pasty                                   , тестообразный                           , 3
+agrippa                                 , Агриппа                                 , 3
+alchemy                                 , алхимия                                 , 3
+stray                                   , бродить                                 , 3
+toadless                                , безжабный                               , 3
+events                                  , события                                 , 3
+cough                                   , кашель                                  , 3
+coolly                                  , хладнокровно                            , 3
+scowl                                   , хмуриться                               , 3
+mountains                               , горы                                    , 3
+fleet                                   , флот                                    , 3
+cliff                                   , утес                                    , 3
+trevor                                  , Тревор                                  , 3
+fist                                    , кулак                                   , 3
+ruff                                    , ерш                                     , 3
+sandy                                   , Сэнди                                   , 3
+candle                                  , свеча                                   , 3
+upward                                  , вверх                                   , 3
+heavens                                 , небеса                                  , 3
+patch                                   , 3
+rabbit                                  , 3
+hannah                                  , 3
+earlier                                 , 3
+thomas                                  , 3
+steak                                   , 3
+nicholas                                , 3
+treacle                                 , 3
+algie                                   , 3
+ankles                                  , 3
+sleepy                                  , 3
+hook                                    , 3
+ouch                                    , 3
+cackle                                  , 3
+password                                , 3
+sweat                                   , 3
+chalk                                   , 3
+binns                                   , 3
+bezoar                                  , 3
+dungeon                                 , 3
+nettle                                  , 3
+whimper                                 , 3
+ham                                     , 3
+sway                                    , 3
+sooner                                  , 3
+hover                                   , 3
+pie                                     , 3
+skip                                    , 3
+gallop                                  , 3
+splutter                                , 3
+confusion                               , 3
+jaw                                     , 3
+weave                                   , 3
+seekers                                 , 3
+skyward                                 , 3
+wingardium                              , 3
+leviosa                                 , 3
+slump                                   , 3
+rear                                    , 3
+blast                                   , 3
+dawn                                    , 3
+banner                                  , 3
+men                                     , 3
+spinnet                                 , 3
+pucey                                   , 3
+penalty                                 , 3
+buck                                    , 3
+pince                                   , 3
+merry                                   , 3
+turkey                                  , 3
+nag                                     , 3
+drain                                   , 3
+ronald                                  , 3
+pillow                                  , 3
+easier                                  , 3
+beast                                   , 3
+tallest                                 , 3
+hoarse                                  , 3
+astronomy                               , 3
+humans                                  , 3
+needn                                   , 3
+bishop                                  , 3
+mercy                                   , 3
+logic                                   , 3
+bravery                                 , 3
+rowling                                 , 2
+loathe                                  , 2
+absurd                                  , 2
+strawberry                              , 2
+curry                                   , 2
+sardine                                 , 2
+nonmagic                                , 2
+crackpot                                , 2
+medal                                   , 2
+com                                     , 2
+alreader                                , 2
+anne                                    , 2
+grunnings                               , 2
+crane                                   , 2
+finer                                   , 2
+dull                                    , 2
+cloudy                                  , 2
+tawny                                   , 2
+tyke                                    , 2
+chortle                                 , 2
+huddle                                  , 2
+weirdos                                 , 2
+gaze                                    , 2
+lunchtime                               , 2
+bun                                     , 2
+uneasy                                  , 2
+disturb                                 , 2
+dial                                    , 2
+nephew                                  , 2
+contrary                                , 2
+passersby                               , 2
+unusually                               , 2
+jim                                     , 2
+oddly                                   , 2
+kent                                    , 2
+yorkshire                               , 2
+unblinkingly                            , 2
+spectacles                              , 2
+crook                                   , 2
+amuse                                   , 2
+lighter                                 , 2
+beady                                   , 2
+precious                                , 2
+downright                               , 2
+streets                                 , 2
+fond                                    , 2
+flatter                                 , 2
+noble                                   , 2
+blush                                   , 2
+faintly                                 , 2
+sirius                                  , 2
+visible                                 , 2
+shaggy                                  , 2
+doorstep                                , 2
+breeze                                  , 2
+bonnet                                  , 2
+spiders                                 , 2
+haircut                                 , 2
+smoothly                                , 2
+wig                                     , 2
+auntie                                  , 2
+daddy                                   , 2
+airplane                                , 2
+vcr                                     , 2
+restaurants                             , 2
+hopefully                               , 2
+screw                                   , 2
+polkiss                                 , 2
+scrawny                                 , 2
+baggy                                   , 2
+revolt                                  , 2
+chimney                                 , 2
+headmistress                            , 2
+mid                                     , 2
+snigger                                 , 2
+sunny                                   , 2
+glory                                   , 2
+afterward                               , 2
+crawl                                   , 2
+snooze                                  , 2
+plainly                                 , 2
+vigorously                              , 2
+jab                                     , 2
+miserable                               , 2
+strangers                               , 2
+ray                                     , 2
+knickerbockers                          , 2
+handsome                                , 2
+tub                                     , 2
+tighten                                 , 2
+wrinkle                                 , 2
+wax                                     , 2
+snort                                   , 2
+flip                                    , 2
+porridge                                , 2
+rifle                                   , 2
+tread                                   , 2
+mouthful                                , 2
+windowsill                              , 2
+din                                     , 2
+timidly                                 , 2
+dud                                     , 2
+shack                                   , 2
+kindly                                  , 2
+toothless                               , 2
+ration                                  , 2
+spray                                   , 2
+shrivel                                 , 2
+privately                               , 2
+moldy                                   , 2
+hunger                                  , 2
+drown                                   , 2
+creak                                   , 2
+upright                                 , 2
+cannon                                  , 2
+stupidly                                , 2
+hinge                                   , 2
+mane                                    , 2
+shadowy                                 , 2
+grate                                   , 2
+sag                                     , 2
+poker                                   , 2
+merlin                                  , 2
+enclose                                 , 2
+clamp                                   , 2
+scuttle                                 , 2
+urgently                                , 2
+followers                               , 2
+nicer                                   , 2
+killin                                  , 2
+clench                                  , 2
+spear                                   , 2
+codswallop                              , 2
+blaze                                   , 2
+bully                                   , 2
+warty                                   , 2
+toads                                   , 2
+dread                                   , 2
+ridiculous                              , 2
+revenge                                 , 2
+insult                                  , 2
+clasp                                   , 2
+fiercely                                , 2
+savage                                  , 2
+humbug                                  , 2
+handful                                 , 2
+puncture                                , 2
+safest                                  , 2
+pposed                                  , 2
+harbor                                  , 2
+knit                                    , 2
+stitch                                  , 2
+gloves                                  , 2
+pupils                                  , 2
+waffle                                  , 2
+emetic                                  , 2
+beasts                                  , 2
+crystal                                 , 2
+aloud                                   , 2
+escalator                               , 2
+bustle                                  , 2
+shabby                                  , 2
+walnut                                  , 2
+buzz                                    , 2
+bless                                   , 2
+honor                                   , 2
+courtyard                               , 2
+tremblin                                , 2
+wider                                   , 2
+collapsible                             , 2
+liver                                   , 2
+ounce                                   , 2
+eeylops                                 , 2
+emporium                                , 2
+barn                                    , 2
+fastest                                 , 2
+barrel                                  , 2
+totter                                  , 2
+greed                                   , 2
+treasure                                , 2
+scatter                                 , 2
+biscuits                                , 2
+importantly                             , 2
+cram                                    , 2
+torch                                   , 2
+stalagmite                              , 2
+unlock                                  , 2
+billow                                  , 2
+sickle                                  , 2
+trap                                    , 2
+footstool                               , 2
+sorta                                   , 2
+postage                                 , 2
+circumstances                           , 2
+fascinate                               , 2
+rot                                     , 2
+scoop                                   , 2
+sneeze                                  , 2
+peel                                    , 2
+dusty                                   , 2
+depths                                  , 2
+neatly                                  , 2
+shin                                    , 2
+creepy                                  , 2
+mahogany                                , 2
+yew                                     , 2
+elbow                                   , 2
+hairs                                   , 2
+happier                                 , 2
+holly                                   , 2
+whoop                                   , 2
+gawk                                    , 2
+lade                                    , 2
+chew                                    , 2
+yerself                                 , 2
+depress                                 , 2
+dump                                    , 2
+briskly                                 , 2
+disgruntle                              , 2
+shove                                   , 2
+painfully                               , 2
+mere                                    , 2
+sixth                                   , 2
+starve                                  , 2
+grindelwald                             , 2
+morgana                                 , 2
+photos                                  , 2
+weird                                   , 2
+sidle                                   , 2
+coconut                                 , 2
+nibble                                  , 2
+wilder                                  , 2
+bossy                                   , 2
+sunshine                                , 2
+twentieth                               , 2
+whisker                                 , 2
+bravely                                 , 2
+lurch                                   , 2
+mon                                     , 2
+ivy                                     , 2
+magnificent                             , 2
+drone                                   , 2
+outstanding                             , 2
+triumph                                 , 2
+whichever                               , 2
+linger                                  , 2
+jolt                                    , 2
+pearly                                  , 2
+splendid                                , 2
+dot                                     , 2
+legged                                  , 2
+sleek                                   , 2
+dwell                                   , 2
+applause                                , 2
+susan                                   , 2
+terry                                   , 2
+ravenclaws                              , 2
+lavender                                , 2
+jog                                     , 2
+parkinson                               , 2
+shakily                                 , 2
+loudest                                 , 2
+bucket                                  , 2
+taller                                  , 2
+uncertainly                             , 2
+genius                                  , 2
+pudding                                 , 2
+gravy                                   , 2
+ketchup                                 , 2
+mimsy                                   , 2
+stain                                   , 2
+desserts                                , 2
+trifle                                  , 2
+tart                                    , 2
+til                                     , 2
+accidentally                            , 2
+goblet                                  , 2
+greasy                                  , 2
+ahem                                    , 2
+caretaker                               , 2
+snakelike                               , 2
+bare                                    , 2
+trot                                    , 2
+portraits                               , 2
+staircases                              , 2
+poltergeist                             , 2
+firsties                                , 2
+cozy                                    , 2
+pajamas                                 , 2
+hangings                                , 2
+heavier                                 , 2
+classrooms                              , 2
+tickle                                  , 2
+wastepaper                              , 2
+bulge                                   , 2
+whisk                                   , 2
+passageways                             , 2
+complicate                              , 2
+garlic                                  , 2
+zombie                                  , 2
+untidy                                  , 2
+scrawl                                  , 2
+fume                                    , 2
+fame                                    , 2
+asphodel                                , 2
+infusion                                , 2
+wormwood                                , 2
+faintest                                , 2
+monkshood                               , 2
+wolfsbane                               , 2
+spill                                   , 2
+spat                                    , 2
+boarhound                               , 2
+drool                                   , 2
+fitch                                   , 2
+git                                     , 2
+malfay                                  , 2
+accidents                               , 2
+vibrate                                 , 2
+hawk                                    , 2
+wham                                    , 2
+thud                                    , 2
+facedown                                , 2
+earshot                                 , 2
+nastily                                 , 2
+speechless                              , 2
+clang                                   , 2
+flank                                   , 2
+overhear                                , 2
+loom                                    , 2
+bathrobes                               , 2
+hunch                                   , 2
+bogies                                  , 2
+madly                                   , 2
+scurry                                  , 2
+doorknob                                , 2
+naughty                                 , 2
+alohomora                               , 2
+tug                                     , 2
+monstrous                               , 2
+seventh                                 , 2
+glee                                    , 2
+recite                                  , 2
+strap                                   , 2
+zigzag                                  , 2
+rocket                                  , 2
+gar                                     , 2
+sleeves                                 , 2
+startle                                 , 2
+decorations                             , 2
+askew                                   , 2
+terror                                  , 2
+dormitories                             , 2
+directions                              , 2
+flail                                   , 2
+cling                                   , 2
+sicken                                  , 2
+racket                                  , 2
+fury                                    , 2
+tackle                                  , 2
+embarrass                               , 2
+moleskin                                , 2
+leak                                    , 2
+staffroom                               , 2
+bandage                                 , 2
+breathlessly                            , 2
+adrian                                  , 2
+loop                                    , 2
+feelings                                , 2
+higgs                                   , 2
+spin                                    , 2
+jinx                                    , 2
+yelp                                    , 2
+snowball                                , 2
+spectacular                             , 2
+flatly                                  , 2
+discoveries                             , 2
+developments                            , 2
+pence                                   , 2
+suspend                                 , 2
+crackers                                , 2
+feeble                                  , 2
+redder                                  , 2
+luminous                                , 2
+desks                                   , 2
+carve                                   , 2
+oyt                                     , 2
+reflections                             , 2
+hungrily                                , 2
+transfix                                , 2
+insides                                 , 2
+nightmares                              , 2
+skim                                    , 2
+fewer                                   , 2
+bunny                                   , 2
+countercurse                            , 2
+grumpily                                , 2
+drinker                                 , 2
+perenelle                               , 2
+erupt                                   , 2
+nearby                                  , 2
+hocus                                   , 2
+pocus                                   , 2
+thump                                   , 2
+anti                                    , 2
+shhhh                                   , 2
+thoughtfully                            , 2
+stoat                                   , 2
+diff                                    , 2
+teddy                                   , 2
+flare                                   , 2
+thrash                                  , 2
+detentions                              , 2
+meddle                                  , 2
+resign                                  , 2
+misery                                  , 2
+sack                                    , 2
+werewolves                              , 2
+inter                                   , 2
+creatures                               , 2
+grimly                                  , 2
+hullo                                   , 2
+hooves                                  , 2
+dense                                   , 2
+slay                                    , 2
+sore                                    , 2
+snuffbox                                , 2
+drip                                    , 2
+horrify                                 , 2
+caution                                 , 2
+tumble                                  , 2
+bid                                     , 2
+loosen                                  , 2
+knack                                   , 2
+instant                                 , 2
+onward                                  , 2
+blister                                 , 2
+agony                                   , 2
+deadly                                  , 2
+alas                                    , 2
+rocker                                  , 2
+serpent                                 , 2
+gateway                                 , 2
+mue                                     , 2
+ruc                                     , 2
+rcx                                     , 2
+icq                                     , 2
+ttx                                     , 2
+plh                                     , 2
+vck                                     , 2
+jzd                                     , 2
+qjh                                     , 2
+ike                                     , 2
+hpx                                     , 2
+cft                                     , 2
+csw                                     , 2
+qlp                                     , 2
+klp                                     , 2
+zyl                                     , 2
