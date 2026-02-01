@@ -1,10 +1,12 @@
 import os
+import zipfile
 import xml.etree.ElementTree as ET
 from collections import Counter
+from html.parser import HTMLParser
 from nltk.tokenize import RegexpTokenizer
 from nltk.stem import WordNetLemmatizer
 from translator import translate_words_sync
-from config import *
+from config import HANDLED_DIR, BOOK, OXFORD_PATH
 
 def load_common_words(filepath):
     with open(filepath, 'r') as f:
@@ -15,6 +17,26 @@ def extract_text_from_fb2(filepath):
         xml_content = f.read()
     root = ET.fromstring(xml_content)
     return " ".join(text.strip() for text in root.itertext() if text and text.strip())
+
+class _HTMLTextExtractor(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.parts = []
+
+    def handle_data(self, data):
+        if data and data.strip():
+            self.parts.append(data.strip())
+
+def extract_text_from_epub(filepath):
+    parts = []
+    with zipfile.ZipFile(filepath, 'r') as zf:
+        for name in zf.namelist():
+            lower_name = name.lower()
+            content = zf.read(name).decode('utf-8', errors='ignore')
+            parser = _HTMLTextExtractor()
+            parser.feed(content)
+            parts.extend(parser.parts)
+    return " ".join(parts)
 
 def get_filtered_counter(text, common_words):
     tokenizer = RegexpTokenizer(r"[A-Za-z]+(?:'[A-Za-z]+)?")
@@ -52,24 +74,27 @@ def save_counter(counter, filepath):
             f.write(f"{line_content}\n")
 
 def main():
-    print(f"Loading common words from: {common_words_path}")
-    common_words = load_common_words(common_words_path)
+
+    print(f"Загружаеми 3k популярных слов: {OXFORD_PATH}")
+    common_words = load_common_words(OXFORD_PATH)
     
-    print(f"Processing book: {book_filename}")
-    book_text = extract_text_from_fb2(book_filename)
+    print(f"Исключаем слова из Oxford 3k: {BOOK}")
+    book_ext = os.path.splitext(BOOK)[1].lower()
+    if book_ext == '.fb2':
+        book_text = extract_text_from_fb2(BOOK)
+    elif book_ext == '.epub':
+        book_text = extract_text_from_epub(BOOK)
+        print(book_text[:6000])
+    else:
+        raise ValueError(f"Неподдерживаемый формат: {book_ext}")
     counter = get_filtered_counter(book_text, common_words)
     
-    base_name = os.path.splitext(os.path.basename(book_filename))[0]
-    os.makedirs(output_dir, exist_ok=True)
-    output_filename = os.path.join(output_dir, f"{base_name}_counter.csv")
+    base_name = os.path.splitext(os.path.basename(BOOK))[0]
+    os.makedirs(HANDLED_DIR, exist_ok=True)
+    output_filename = os.path.join(HANDLED_DIR, f"{base_name}_counter.csv")
     
-    print(f"Saving to {output_filename}...")
+    print(f"Сохраняем по пути {output_filename}...")
     save_counter(counter, output_filename)
-    
-    print(f"Done! Редкие слова из книги '{base_name}' (топ-50):")
-    for word, count in counter.most_common(50):
-        if count > 2:
-            print(f"{word}: {count}")
 
 if __name__ == "__main__":
     main()
