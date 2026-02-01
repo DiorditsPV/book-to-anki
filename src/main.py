@@ -4,9 +4,7 @@ from collections import Counter
 from nltk.tokenize import RegexpTokenizer
 from nltk.stem import WordNetLemmatizer
 from translator import translate_words_sync
-
-TRANSLATE_ENABLED = True
-TRANSLATE_LIMIT = 1300
+from config import *
 
 def load_common_words(filepath):
     with open(filepath, 'r') as f:
@@ -25,45 +23,35 @@ def get_filtered_counter(text, common_words):
     
     lemmatized_words = [lemmatizer.lemmatize(w, pos='v') for w in words]
     
-    filtered_words = [w for w in lemmatized_words if w not in common_words and len(w) >= 3]
+    filtered_words = [w for w in lemmatized_words if w not in common_words and len(w) > 3]
     return Counter(filtered_words)
 
-def save_counter(counter, filepath, translate=False, translate_limit=0):
+def save_counter(counter, filepath):
     translations = {}
-    if translate:
-        words_for_translation = []
-        for word, count in counter.most_common():
-            if count <= 1:
-                continue
-            words_for_translation.append(word)
-            if translate_limit != 0 and len(words_for_translation) >= translate_limit:
-                break
-        translations = translate_words_sync(words_for_translation)
+    words_for_translation = []
+    for word, count in counter.most_common():
+        if count <= 1:
+            continue
+        words_for_translation.append(word)
+    translations = translate_words_sync(words_for_translation)
 
     with open(filepath, 'w', encoding='utf-8') as f:
         translated_count = 0
         for word, count in counter.most_common():
             if count <= 1:
                 continue
-                
-            line_content = f"{word:40}, {count}"
-            
-            if translate and (translate_limit == 0 or translated_count < translate_limit):
-                translation = translations.get(word)
-                if translation:
-                    line_content = f"{word:40}, {translation:40}, {count}"
-                    print(f"Translated ({translated_count + 1}): {word} -> {translation}")
-                    translated_count += 1
-                else:
-                    line_content = f"{word:40}, {'':40}, {count}"
+                            
+            translation = translations.get(word)
+            if translation:
+                line_content = f"{word},{translation},{count}"
+                print(f"Translated ({translated_count + 1}): {word} -> {translation}")
+                translated_count += 1
+            else:
+                line_content = f"{word},,{count}"
             
             f.write(f"{line_content}\n")
 
 def main():
-    common_words_path = os.path.join('data', 'dict', 'Oxford3000.txt')
-    book_filename = os.path.join('data', 'books', 'Between Two Fires.fb2')
-    output_dir = 'output'
-
     print(f"Loading common words from: {common_words_path}")
     common_words = load_common_words(common_words_path)
     
@@ -73,10 +61,10 @@ def main():
     
     base_name = os.path.splitext(os.path.basename(book_filename))[0]
     os.makedirs(output_dir, exist_ok=True)
-    output_filename = os.path.join(output_dir, f"{base_name}_counter.txt")
+    output_filename = os.path.join(output_dir, f"{base_name}_counter.csv")
     
-    print(f"Saving to {output_filename} (Translation: {TRANSLATE_ENABLED}, Limit: {TRANSLATE_LIMIT})...")
-    save_counter(counter, output_filename, translate=TRANSLATE_ENABLED, translate_limit=TRANSLATE_LIMIT)
+    print(f"Saving to {output_filename}...")
+    save_counter(counter, output_filename)
     
     print(f"Done! Редкие слова из книги '{base_name}' (топ-50):")
     for word, count in counter.most_common(50):
